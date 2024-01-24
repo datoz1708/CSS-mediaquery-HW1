@@ -192,6 +192,15 @@
     text-decoration: none;
     text-align: left;
   }
+
+  button {
+    font-family: "opensans";
+  }
+
+  ::placeholder {
+    font-family: "opensans";
+    color: #D1D5DB;
+  }
   
   @media screen and (max-width: 768px) {
     .container {
